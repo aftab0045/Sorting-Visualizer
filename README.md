@@ -1,18 +1,17 @@
 # 🔢 Sorting Visualizer
 
-A simple and interactive web-based sorting algorithm visualizer built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates how popular sorting algorithms work through engaging visual animations.
+A simple and interactive **sorting algorithm visualizer** built using **HTML**, **CSS**, and **JavaScript**. This project helps you understand how different sorting algorithms work through engaging visual animations.
 
-## 🖼️ Demo
+## 🔗 Live Demo
 
-![Sorting Visualizer Demo](https://your-image-link-or-gif-if-any.com)  
-
+👉 [Try it out here!](https://sorting-visualizer3412.netlify.app/)
 
 ## 🚀 Features
 
-- Visualizes popular sorting algorithms
-- Interactive user interface
+- Visualizes multiple sorting algorithms
 - Adjustable array size and animation speed
-- Color-coded comparisons and swaps
+- Color-coded elements during sorting
+- Clean and responsive UI
 
 ## ✅ Algorithms Implemented
 
@@ -26,7 +25,7 @@ A simple and interactive web-based sorting algorithm visualizer built using **HT
 
 ```plaintext
 sorting-visualizer/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.html        # Main HTML file
+├── style.css         # Styling with CSS
+├── script.js         # All sorting logic & interactivity
+└── README.md         # Project documentation
